@@ -1,0 +1,145 @@
+* {
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.huge-container {
+  width: 1500px;
+  position: relative;
+}
+
+.article-image {
+  width: 86px;
+  height: 86px;
+  padding-left: 36px;
+  padding-top: 11px;
+  border-radius: 50%;
+}
+
+.article-name {
+  color: white;
+  font-size: 21px;
+  padding-left: 36px;
+}
+
+.name-black {
+  color: black;
+}
+
+.article-graduated {
+  color: gray;
+  font-size: 16px;
+  padding-left: 36px;
+}
+
+.article-primary-p {
+  color: white;
+  font-weight: bold;
+  line-height: 1.5;
+  padding-left: 36px;
+  font-size: x-large;
+  padding-right: 14px;
+}
+
+.primary-black {
+  color: black;
+}
+
+.article-secondary-p {
+  color: white;
+  font-size: smaller;
+  word-spacing: 0.7px;
+  padding-left: 36px;
+  padding-right: 14px;
+}
+
+.p-gray {
+  color: gray;
+}
+
+.container1 {
+  width: 1100px;
+  height: 498px;
+}
+
+.daniel-clifford {
+  width: 567px;
+  height: 444px;
+  background-color: purple;
+  margin: 22px 25px 15px 24px;
+  display: inline-block;
+  border-radius: 8px;
+}
+
+.jonathon-walters-container {
+  position: relative;
+}
+
+.jonathon-walters {
+  width: 375px;
+  height: 451px;
+  background-color: lightslategrey;
+  margin: 12px 25px 15px 0;
+  display: inline-block;
+  border-radius: 8px;
+  position: absolute;
+  top: -475px;
+  left: 617px;
+}
+
+.container2 {
+  width: 1000px;
+  height: 925px;
+}
+
+.jeanette-harmon-container {
+  position: relative;
+}
+
+.jeanette-harmon {
+  width: 381px;
+  height: 434px;
+  background-color: white;
+  margin: 0 25px 15px 0;
+  display: inline-block;
+  position: absolute;
+  left: 26px;
+  border-radius: 8px;
+}
+
+.patrick-abrams-container {
+  position: relative;
+  width: 600px;
+  height: 450px;
+  display: inline-block;
+  left: 444px;
+}
+
+.patrick-abrams {
+  width: 550px;
+  height: 410px;
+  background-color: black;
+  margin: 0 25px 15px 0;
+  display: inline-block;
+  position: absolute;
+  border-radius: 8px;
+}
+
+.kira-whittle {
+  background-color: white;
+  width: 381px;
+  height: 897px;
+  display: inline-block;
+  position: absolute;
+  top: 16px;
+  left: 1034px;
+  border-radius: 8px;
+}
+
+.name-graduated {
+  line-height: 0.1px;
+  display: inline-block;
+  margin-bottom: -2px;
+}
